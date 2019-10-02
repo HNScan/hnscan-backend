@@ -1,6 +1,6 @@
 {
   "name": "hnscan",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A hnscan backend instance designed to be run as a HSD plugin",
   "main": "lib/index.js",
   "scripts": {
